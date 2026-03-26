@@ -1,0 +1,6 @@
+/target
+*.clog
+node_wrapper/*.node
+node_wrapper/index.js
+node_wrapper/index.d.ts
+node_wrapper/node_modules/

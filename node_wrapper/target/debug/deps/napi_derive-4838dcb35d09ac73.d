@@ -1,0 +1,10 @@
+/Users/ayush/Desktop/cryptlog/node_wrapper/target/debug/deps/napi_derive-4838dcb35d09ac73.d: /Users/ayush/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/napi-derive-2.16.13/src/lib.rs /Users/ayush/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/napi-derive-2.16.13/src/compat_macro.rs /Users/ayush/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/napi-derive-2.16.13/src/expand.rs /Users/ayush/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/napi-derive-2.16.13/src/parser/mod.rs /Users/ayush/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/napi-derive-2.16.13/src/parser/attrs.rs /Users/ayush/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/napi-derive-2.16.13/src/expand/napi.rs
+
+/Users/ayush/Desktop/cryptlog/node_wrapper/target/debug/deps/libnapi_derive-4838dcb35d09ac73.dylib: /Users/ayush/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/napi-derive-2.16.13/src/lib.rs /Users/ayush/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/napi-derive-2.16.13/src/compat_macro.rs /Users/ayush/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/napi-derive-2.16.13/src/expand.rs /Users/ayush/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/napi-derive-2.16.13/src/parser/mod.rs /Users/ayush/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/napi-derive-2.16.13/src/parser/attrs.rs /Users/ayush/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/napi-derive-2.16.13/src/expand/napi.rs
+
+/Users/ayush/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/napi-derive-2.16.13/src/lib.rs:
+/Users/ayush/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/napi-derive-2.16.13/src/compat_macro.rs:
+/Users/ayush/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/napi-derive-2.16.13/src/expand.rs:
+/Users/ayush/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/napi-derive-2.16.13/src/parser/mod.rs:
+/Users/ayush/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/napi-derive-2.16.13/src/parser/attrs.rs:
+/Users/ayush/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/napi-derive-2.16.13/src/expand/napi.rs:

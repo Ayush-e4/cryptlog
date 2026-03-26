@@ -1,0 +1,39 @@
+[package]
+name = "cryptlog"
+version = "0.1.0"
+edition = "2021"
+description = "A tamper-evident, append-only log using SHA-256 hash chains"
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/ayush-that/cryptlog"
+homepage = "https://github.com/ayush-that/cryptlog"
+keywords = ["audit", "log", "hash-chain", "tamper-evident", "append-only"]
+categories = ["command-line-utilities", "cryptography"]
+include = [
+    "src/**/*",
+    "examples/**/*",
+    "Cargo.toml",
+    "README.md",
+    "CHANGELOG.md",
+    "LICENSE",
+]
+
+[features]
+default = ["cli"]
+cli = ["dep:chrono", "dep:colored"]
+
+[dependencies]
+sha2 = "0.10"
+fs2 = "0.4"
+chrono = { version = "0.4", optional = true }
+colored = { version = "3.1", optional = true }
+
+[[bin]]
+name = "cryptlog"
+path = "src/main.rs"
+required-features = ["cli"]
+
+[[example]]
+name = "demo"
+path = "examples/demo.rs"
+
