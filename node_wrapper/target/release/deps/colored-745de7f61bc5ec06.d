@@ -1,0 +1,12 @@
+/Users/ayush/Desktop/cryptlog/node_wrapper/target/release/deps/colored-745de7f61bc5ec06.d: /Users/ayush/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/colored-3.1.1/src/lib.rs /Users/ayush/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/colored-3.1.1/src/color.rs /Users/ayush/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/colored-3.1.1/src/control.rs /Users/ayush/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/colored-3.1.1/src/error.rs /Users/ayush/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/colored-3.1.1/src/style.rs /Users/ayush/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/colored-3.1.1/src/customcolors.rs
+
+/Users/ayush/Desktop/cryptlog/node_wrapper/target/release/deps/libcolored-745de7f61bc5ec06.rlib: /Users/ayush/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/colored-3.1.1/src/lib.rs /Users/ayush/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/colored-3.1.1/src/color.rs /Users/ayush/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/colored-3.1.1/src/control.rs /Users/ayush/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/colored-3.1.1/src/error.rs /Users/ayush/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/colored-3.1.1/src/style.rs /Users/ayush/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/colored-3.1.1/src/customcolors.rs
+
+/Users/ayush/Desktop/cryptlog/node_wrapper/target/release/deps/libcolored-745de7f61bc5ec06.rmeta: /Users/ayush/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/colored-3.1.1/src/lib.rs /Users/ayush/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/colored-3.1.1/src/color.rs /Users/ayush/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/colored-3.1.1/src/control.rs /Users/ayush/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/colored-3.1.1/src/error.rs /Users/ayush/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/colored-3.1.1/src/style.rs /Users/ayush/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/colored-3.1.1/src/customcolors.rs
+
+/Users/ayush/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/colored-3.1.1/src/lib.rs:
+/Users/ayush/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/colored-3.1.1/src/color.rs:
+/Users/ayush/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/colored-3.1.1/src/control.rs:
+/Users/ayush/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/colored-3.1.1/src/error.rs:
+/Users/ayush/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/colored-3.1.1/src/style.rs:
+/Users/ayush/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/colored-3.1.1/src/customcolors.rs:

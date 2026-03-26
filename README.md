@@ -221,13 +221,13 @@ fn main() -> cryptlog::Result<()> {
 cryptlog is also published to npm natively as an ultra-fast Rust binding via `napi-rs`.
 
 ```bash
-npm install cryptlog
+npm install @ayush-e4/cryptlog
 # or
-yarn add cryptlog
+yarn add @ayush-e4/cryptlog
 ```
 
 ```javascript
-const { append, verify, count, snapshot, checkSnapshot } = require("cryptlog");
+const { append, verify, count, snapshot, checkSnapshot } = require("@ayush-e4/cryptlog");
 
 const path = "audit.clog";
 
